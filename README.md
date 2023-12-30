@@ -1,17 +1,22 @@
-# scaffolding
+# Scaffolding Inspection Document
 
-A new Flutter project.
+A full-stack flutter app build using firebase and firestore.
 
 ## Getting Started
+`lib` is the root folder of the project. Do edit from there.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **User Authentication:** User Authentication by using FirenaseAuth API.
+- **Email Verification:** If the user email is verified or not if then and then only the user can login.
+- **User Registration:** New user can register itself by using `FirebaseAuth.instance.createUserByEmailAndPassword`.
+- **Add Inspection:** Add scaffolding inspection with all the details.
+- **Delete Inspection:** Delete inspection by simply a slide.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Video Demo
+https://github.com/Sanket2004/Scaffolding-Inspection/assets/99745967/f18056e4-7c6c-41c0-9670-a4d819797162
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Scaffolding-Inspection
+## Contribution
+Feel free to contribute, create fork and make pull request.
+
+
