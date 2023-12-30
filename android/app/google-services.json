@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73188830130",
+    "project_id": "scaffolding-inspection-dc6f6",
+    "storage_bucket": "scaffolding-inspection-dc6f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73188830130:android:69e817747d253d000152ab",
+        "android_client_info": {
+          "package_name": "com.example.scaffolding"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPcSN-LnZkX8eFn4W9eOx8ifmk9f4qGyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
